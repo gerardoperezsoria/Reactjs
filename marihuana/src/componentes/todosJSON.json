@@ -1,0 +1,29 @@
+{
+    "todos":
+    [
+        {
+            "title": "Task 1",
+            "responsable": "GPSs",
+            "description": "Lorem ipsum",
+            "priorit": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsable": "GPSs",
+            "description": "Lorem ipsum",
+            "priorit": "higth"
+        },
+        {
+            "title": "Task 3",
+            "responsable": "GPSs",
+            "description": "Lorem ipsum",
+            "priorit": "low"
+        },
+        {
+            "title": "Task 4",
+            "responsable": "GPSs",
+            "description": "Lorem ipsum",
+            "priorit": "medium"
+        }            
+    ]
+}
